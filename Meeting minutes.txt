@@ -1,4 +1,40 @@
-Meeting on 30th August 2022:
+First Meet- 30th August 2022:
+• Digital elecs project
+• To do ninja game with hardware modelling
+• Other than remote we will make all hardware
+• Verilog is important 
+• Schematic,figures etc will be given
+• We will have a 2 dimensional plane
+• We will have coordinates where fruit pops and using origin and coordinates we will check angle at which fruit pops
+• These coordinates should be selected using random number
+• We have a random generator in hardware
+• We need to make random generator, graphic design and remote for slicing
+• Project plan
+1. Start the game
+2. Game rules and play-includes design of bomb and fruit, launch of fruit,when to stop or call game over etc
+3. Timer
+4. Graphics
+5. Remote
+6. End
+• Advancements can be done at last
+• We have gyroscope and two ICs to create a remote
+• Remote description pdf will be shared
+• FPGA is not so easy like simulation...Limitations are present when compared to software simulation
+• Plan is to finish by end of sem
+• Design for FPGA includes 
+1. simulation
+2. synthesis
+3. Implementation
+4. Bit stream generation
+• Download VIVADO for FPGA which is software to upload code in FPGA of Xilinx company
+• Offline meet to have discussion on happened things
+• Things to do:
+1. Digital logic design
+2. Verilog
+• Use morris mano for preparing these topics
+• Share ur github ids to mentors
+
+Meeting on 9th September 2022:
 • Complete combination logic till Tuesday.
 • Solve questions that will be posted on group from Wed. We will then implement them in verilog.
 • In next week, we will be directly writing verilog codes in meets.
@@ -7,4 +43,13 @@ Meeting on 30th August 2022:
 • You can solve verilog assignment questions from cepstrum EE210 course.
 • Try to learn pushing request in Github repos
 • Random number generator concept
+• Pseudo generator just uses shifting and using xor of inputs
+
+Meeting on 27th September 2022:
+• Complete combinational and sequential logic during midsem break.
+• Solve a few verilog questions as well during the midsem break.
+• Implement some circuits in eda playground to get familiar with verilog.
+• Familiarise yourself with verilog playlist shared in group.
+• You can solve verilog assignment questions from cepstrum EE210 course.
+• Random number generator concept shall be dealt with following the midsem break.
 • Pseudo generator just uses shifting and using xor of inputs
