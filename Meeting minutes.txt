@@ -1,3 +1,4 @@
+Meeting on 30th August 2022:
 • Complete combination logic till Tuesday.
 • Solve questions that will be posted on group from Wed. We will then implement them in verilog.
 • In next week, we will be directly writing verilog codes in meets.
