@@ -1,9 +1,0 @@
-• Complete combination logic till Tuesday.
-• Solve questions that will be posted on group from Wed. We will then implement them in verilog.
-• In next week, we will be directly writing verilog codes in meets.
-• Implement some circuits in eda playground to get familiar with verilog.
-• Familiarise yourself with verilog playlist shared in group.
-• You can solve verilog assignment questions from cepstrum EE210 course.
-• Try to learn pushing request in Github repos
-• Random number generator concept
-• Pseudo generator just uses shifting and using xor of inputs
