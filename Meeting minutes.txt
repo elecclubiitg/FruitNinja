@@ -53,3 +53,9 @@ Meeting on 27th September 2022:
 • You can solve verilog assignment questions from cepstrum EE210 course.
 • Random number generator concept shall be dealt with following the midsem break.
 • Pseudo generator just uses shifting and using xor of inputs
+
+Meeting on 22nd October 2022:
+• Decided algorithm for pseudo random number generator. 
+• X_(n+1)= ((a*X_n)+c)%m; X_0= seed, a= multiplier, c= increment, m= modulo.
+• Decided equations of motion.
+• Implementation from next meet.
